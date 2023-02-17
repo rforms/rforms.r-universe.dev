@@ -1,0 +1,18 @@
+[
+  {
+    "package":"formr",
+    "url":"https://github.com/rubenarslan/formr"
+  },
+  {
+    "package":"rmdpartials",
+    "url":"https://github.com/rubenarslan/rmdpartials"
+  },
+  {
+    "package":"codebook",
+    "url":"https://github.com/rubenarslan/codebook"
+  },
+  {
+    "package":"tidyverse",
+    "url":"https://github.com/tidyverse/tidyverse"
+  }
+]
