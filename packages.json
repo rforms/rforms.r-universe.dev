@@ -30,5 +30,17 @@
   {
     "package":"psych",
     "url":"https://github.com/cran/psych"
+  },
+  {
+    "package":"StanHeaders",
+    "url":"https://github.com/stan-dev/rstan/tree/develop/StanHeaders"
+  },
+  {
+    "package":"rstan",
+    "url":"https://github.com/stan-dev/rstan/tree/develop/rstan/rstan"
+  },
+  {
+    "package":"cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr"
   }
 ]
