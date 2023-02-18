@@ -33,11 +33,11 @@
   },
   {
     "package":"StanHeaders",
-    "url":"https://github.com/stan-dev/rstan/tree/develop/StanHeaders"
+    "url":"https://github.com/cran/StanHeaders"
   },
   {
     "package":"rstan",
-    "url":"https://github.com/stan-dev/rstan/tree/develop/rstan/rstan"
+    "url":"https://github.com/cran/rstan"
   },
   {
     "package":"cmdstanr",
