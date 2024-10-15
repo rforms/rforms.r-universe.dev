@@ -12,6 +12,10 @@
     "url":"https://github.com/rubenarslan/codebook"
   },
   {
+    "package":"rcamisc",
+    "url":"https://github.com/rubenarslan/rcamisc"
+  },
+  {
     "package":"tidyverse",
     "url":"https://github.com/tidyverse/tidyverse"
   },
